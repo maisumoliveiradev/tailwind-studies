@@ -1,5 +1,5 @@
 import { LogOut } from 'lucide-react'
-import { Button } from '../utils/Button'
+import { Button } from '../Button'
 
 export function Profile() {
   return (

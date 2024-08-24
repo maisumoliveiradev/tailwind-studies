@@ -5,7 +5,7 @@ import { Bold, Italic, Link, List, ListOrdered, Mail } from 'lucide-react'
 import { Select } from '@/components/Form/Select'
 import { SelectItem } from '@/components/Form/Select/SelectItem'
 import { Textarea } from '@/components/Form/TextArea'
-import { Button } from '@/components/utils/Button'
+import { Button } from '@/components/Button'
 
 export default function Home() {
   return (
